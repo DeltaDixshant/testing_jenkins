@@ -1,1 +1,1 @@
-Primnt ("this is a new world")
+Print ("this is a new world")
